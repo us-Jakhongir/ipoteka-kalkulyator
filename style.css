@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700&display=swap);
+
+.calculator-content-title
+{
+    display: flex;
+    align-items: center;    
+    place-content: center;
+}
+
+.calculator-content-body-left-inputs
+{
+    font-size: 20px;
+    margin-top: 15px;
+}
+
+.input
+{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.calculator-content-body
+{
+    display: flex;
+    align-items: center;    
+    place-content: center;
+}
+
+.final-results-wrapper
+{       
+    margin-left: 20px;
+}
+
+.value 
+{
+    font-size: 30px;
+    
+}
+.title 
+{
+    font-size: 20px;
+    margin-top: 15px;
+}
